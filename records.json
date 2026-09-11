@@ -1,0 +1,236 @@
+{
+  "collection": "Electrical Lifeforms & Energy Specimens",
+  "records": [
+    {
+      "id": "REC-001",
+      "title": "Phone Battery of Mine (Cherry)",
+      "type": "image",
+      "file": "media/phone 1.jpeg",
+      "date": "2026-09-10",
+      "place": "JC3 UG11",
+      "recorder": "Cherry",
+      "not_captured": "how far it had already turn on that morning.",
+      "certainty": 4
+    },
+    {
+      "id": "REC-002",
+      "title": "Broken AirCon",
+      "type": "sound",
+      "file": "media/air con error.mp3",
+      "date": "2026-09-10",
+      "place": "JC3 UG11",
+      "recorder": "Cherry",
+      "not_captured": "the emotion of how i feel when i know the aircon cannot be opened.",
+      "certainty": 3
+    },
+    {
+      "id": "REC-003",
+      "title": "Mum!",
+      "type": "text",
+      "file": "media/description.txt",
+      "date": "2026-08-04",
+      "place": "street",
+      "recorder": "Cherry",
+      "not_captured": "The remaining time that my phone still can be used.",
+      "certainty": 2
+    },
+    {
+      "id": "REC-004",
+      "title": "Phone Battery of My Friend (Clare)",
+      "type": "image",
+      "file": "media/phone 2.jpeg",
+      "date": "2026-09-10",
+      "place": "JC3 UG11",
+      "recorder": "Cherry",
+      "not_captured": "How long did my friend charge her phone.",
+      "certainty": 4
+    },
+    {
+      "id": "REC-005",
+      "title": "Charger that save the computer",
+      "type": "image",
+      "file": "media/charger 1.jpeg",
+      "date": "2026-09-10",
+      "place": "JC3 UG11",
+      "recorder": "Cherry",
+      "not_captured": "The heat, the temperature of the charger itself.",
+      "certainty": 4
+    },
+    {
+      "id": "REC-006",
+      "title": "A Powerbank",
+      "type": "image",
+      "file": "media/power bank.jpeg",
+      "date": "2026-09-10",
+      "place": "JC3 UG11",
+      "recorder": "Cherry",
+      "not_captured": "The texture of the power bank.",
+      "certainty": 4
+    },
+    {
+      "id": "REC-006",
+      "title": "The light of a room",
+      "type": "image",
+      "file": "media/room light 1.jpeg",
+      "date": "2026-09-10",
+      "place": "JC3 UG11",
+      "recorder": "Cherry",
+      "not_captured": "The smell, the brightness of the room.",
+      "certainty": 4
+    },
+    {
+      "id": "REC-007",
+      "title": "Borrowed life",
+      "type": "text",
+      "file": "media/Borrowed life.txt",
+      "date": "2026-09-11",
+      "place": "Starbucks at TST",
+      "recorder": "Cherry",
+      "not_captured": "The actual lifetime of each electronic products.",
+      "certainty": 4
+    },
+    {
+      "id": "REC-008",
+      "title": "Red",
+      "type": "image",
+      "file": "media/traffic light.jpg",
+      "date": "2026-09-10",
+      "place": "HKBU",
+      "recorder": "Cherry",
+      "not_captured": "How long this traffic light has been used and enable.",
+      "certainty": 3
+    },
+    {
+      "id": "REC-009",
+      "title": "Charger charging",
+      "type": "video",
+      "file": "media/Charger charging.mp4",
+      "date": "2026-09-10",
+      "place": "My Home",
+      "recorder": "Cherry",
+      "not_captured": "The battery left in my computer that is waiting to be charged.",
+      "certainty": 2
+    },
+    {
+      "id": "REC-0010",
+      "title": "Charging carble in process",
+      "type": "image",
+      "file": "media/charging carble in process.jpg",
+      "date": "2026-09-10",
+      "place": "My Home",
+      "recorder": "Cherry",
+      "not_captured": "The length of the charging carblehow many days was it used. ",
+      "certainty": 4
+    },
+    {
+      "id": "REC-0011",
+      "title": "Charging Computer",
+      "type": "image",
+      "file": "media/charging com.png",
+      "date": "2026-09-10",
+      "place": "JC3 UG11",
+      "recorder": "Cherry",
+      "not_captured": "The enable of the fan in my computer, and the temperature of the computer.",
+      "certainty": 4
+    },
+    {
+      "id": "REC-0012",
+      "title": "Mac Computer has much more battery~",
+      "type": "image",
+      "file": "media/com 1.jpeg",
+      "date": "2026-09-10",
+      "place": "JC3 UG11",
+      "recorder": "Cherry",
+      "not_captured": "How long can a Mac last without being charged.",
+      "certainty": 4
+    },
+    {
+      "id": "REC-0013",
+      "title": "FAN NOISE",
+      "type": "sound",
+      "file": "media/com fan.mp3",
+      "date": "2026-09-10",
+      "place": "JC3 UG11",
+      "recorder": "Cherry",
+      "not_captured": "The computer's usage time and it's heat.",
+      "certainty": 4
+    },
+    {
+      "id": "REC-0014",
+      "title": "No BATTERY :<",
+      "type": "image",
+      "file": "media/com that almost have no battery.png",
+      "date": "2026-09-10",
+      "place": "My Home",
+      "recorder": "Cherry",
+      "not_captured": "The time that it will take to get back to full charge.",
+      "certainty": 4
+    },
+    {
+      "id": "REC-0015",
+      "title": "Electricity",
+      "type": "text",
+      "file": "media/Electricity.txt",
+      "date": "2026-09-11",
+      "place": "Starbucks at TST",
+      "recorder": "Cherry",
+      "not_captured": "Other people's opinions on electricity.",
+      "certainty": 4
+    },
+    {
+      "id": "REC-0016",
+      "title": "Elevator",
+      "type": "image",
+      "file": "media/Elevator.jpeg",
+      "date": "2026-09-11",
+      "place": "TST Ocean Centre",
+      "recorder": "Cherry",
+      "not_captured": "The speed of the elevator.",
+      "certainty": 3
+    },
+    {
+      "id": "REC-0017",
+      "title": "Hair Dryer",
+      "type": "image",
+      "file": "media/hair dryer.jpg",
+      "date": "2026-09-10",
+      "place": "My Home",
+      "recorder": "Cherry",
+      "not_captured": "The burnt smell after I blow-dried my hair.",
+      "certainty": 2
+    },
+    {
+      "id": "REC-0018",
+      "title": "Karaoke",
+      "type": "sound",
+      "file": "media/karaoke.mp3",
+      "date": "2026-09-10",
+      "place": "My Home",
+      "recorder": "Cherry",
+      "not_captured": "The loudness of the microphone when it was enabled at home.",
+      "certainty": 4
+    },
+    {
+      "id": "REC-0019",
+      "title": "Projector in used",
+      "type": "video",
+      "file": "media/Projector host in use.mp4",
+      "date": "2026-09-11",
+      "place": "CVA204",
+      "recorder": "Cherry",
+      "not_captured": "The canel that the projector was opened.",
+      "certainty": 4
+    },
+    {
+      "id": "REC-0020",
+      "title": "Unseen",
+      "type": "text",
+      "file": "media/Unseen.txt",
+      "date": "2026-09-11",
+      "place": "Starbucks at TST",
+      "recorder": "Cherry",
+      "not_captured": "The actual image of the 'unseen' electricity.",
+      "certainty": 4
+    }
+  ]
+}
