@@ -355,6 +355,18 @@
                                     </div>
                                 </div>
 
+                                <!-- Card Footer Section with Certainty Rating and Security Status -->
+                                <div class="mt-2 pt-3 border-t border-emerald-500/20 bg-emerald-950/40 p-3 rounded-xl flex items-center justify-between text-[11px] shrink-0">
+                                    <div>
+                                        <span class="text-[9px] text-emerald-600 block uppercase font-bold">Certainty Index</span>
+                                        <span class="font-bold text-emerald-300">${record.certainty !== undefined ? record.certainty : '?'}/5</span>
+                                    </div>
+                                    <div class="text-right">
+                                        <span class="text-[9px] text-emerald-600 block uppercase font-bold">Sec. Status</span>
+                                        <span class="font-bold text-emerald-400 animate-pulse">VERIFIED // LIVE</span>
+                                    </div>
+                                </div>
+
                                 <div class="pt-2">
                                     <button onclick="flipCard('${cardId}', '${fieldsId}', false)" class="w-full py-2.5 px-4 bg-emerald-950 hover:bg-emerald-900 text-emerald-300 font-mono font-semibold rounded-xl transition-all duration-200 border border-emerald-500/30 text-xs uppercase tracking-wider focus:outline-none cursor-pointer">
                                         &larr; Reconnect Face
