@@ -1,0 +1,201 @@
+{
+  "made_with": "ARTT3005 board",
+  "board_heading": "Electrical Lifeforms & Energy Specimens",
+  "recorder_is": "person",
+  "key_mapping": {
+    "id": "id",
+    "title": "title",
+    "type": "",
+    "file": "file",
+    "date": "date",
+    "place": "place",
+    "recorder": "recorder",
+    "not_captured": "not_captured",
+    "certainty": "certainty"
+  },
+  "extra_fields": [
+    "type"
+  ],
+  "shown_on_card": null,
+  "groups": [
+    {
+      "heading": "text",
+      "members": [
+        "REC-003",
+        "REC-008",
+        "REC-0016",
+        "REC-0021"
+      ]
+    },
+    {
+      "heading": "sound",
+      "members": [
+        "REC-0019",
+        "REC-002",
+        "REC-0014"
+      ]
+    },
+    {
+      "heading": "video",
+      "members": [
+        "REC-0010",
+        "REC-0020"
+      ]
+    },
+    {
+      "heading": "battery",
+      "members": [
+        "REC-001",
+        "REC-004",
+        "REC-0013",
+        "REC-0012",
+        "REC-0015"
+      ]
+    },
+    {
+      "heading": "Saved battery",
+      "members": [
+        "REC-006",
+        "REC-005"
+      ]
+    },
+    {
+      "heading": "Electricity ",
+      "members": [
+        "REC-0011",
+        "REC-009",
+        "REC-007",
+        "REC-0017",
+        "REC-0018"
+      ]
+    }
+  ],
+  "positions": {
+    "REC-001": {
+      "x": 0.0101,
+      "y": 0,
+      "world_x": 90,
+      "world_y": 70
+    },
+    "REC-002": {
+      "x": 0.8851,
+      "y": 0.7595,
+      "world_x": 1435,
+      "world_y": 548
+    },
+    "REC-003": {
+      "x": 0,
+      "y": 0.763,
+      "world_x": 75,
+      "world_y": 550
+    },
+    "REC-004": {
+      "x": 0.1277,
+      "y": 0.0078,
+      "world_x": 271,
+      "world_y": 75
+    },
+    "REC-005": {
+      "x": 0.8508,
+      "y": 0.0228,
+      "world_x": 1382,
+      "world_y": 84
+    },
+    "REC-006": {
+      "x": 0.9692,
+      "y": 0.0306,
+      "world_x": 1564,
+      "world_y": 89
+    },
+    "REC-007": {
+      "x": 0.6914,
+      "y": 0.0141,
+      "world_x": 1137,
+      "world_y": 79
+    },
+    "REC-008": {
+      "x": 0.1148,
+      "y": 0.7704,
+      "world_x": 251,
+      "world_y": 555
+    },
+    "REC-009": {
+      "x": 0.5655,
+      "y": 0.0151,
+      "world_x": 944,
+      "world_y": 80
+    },
+    "REC-0010": {
+      "x": 0.5645,
+      "y": 0.7357,
+      "world_x": 942,
+      "world_y": 533
+    },
+    "REC-0011": {
+      "x": 0.4443,
+      "y": 0.0195,
+      "world_x": 757,
+      "world_y": 82
+    },
+    "REC-0012": {
+      "x": 0.1278,
+      "y": 0.3064,
+      "world_x": 271,
+      "world_y": 263
+    },
+    "REC-0013": {
+      "x": 0.2554,
+      "y": 0.0104,
+      "world_x": 467,
+      "world_y": 77
+    },
+    "REC-0014": {
+      "x": 1,
+      "y": 0.7633,
+      "world_x": 1611,
+      "world_y": 551
+    },
+    "REC-0015": {
+      "x": 0.0082,
+      "y": 0.3085,
+      "world_x": 87,
+      "world_y": 264
+    },
+    "REC-0016": {
+      "x": 0.2308,
+      "y": 0.7602,
+      "world_x": 429,
+      "world_y": 549
+    },
+    "REC-0017": {
+      "x": 0.64,
+      "y": 0.2976,
+      "world_x": 1058,
+      "world_y": 257
+    },
+    "REC-0018": {
+      "x": 0.5032,
+      "y": 0.2921,
+      "world_x": 848,
+      "world_y": 254
+    },
+    "REC-0019": {
+      "x": 0.7777,
+      "y": 0.7572,
+      "world_x": 1270,
+      "world_y": 547
+    },
+    "REC-0020": {
+      "x": 0.5641,
+      "y": 1,
+      "world_x": 941,
+      "world_y": 700
+    },
+    "REC-0021": {
+      "x": 0.3523,
+      "y": 0.7584,
+      "world_x": 616,
+      "world_y": 547
+    }
+  }
+}

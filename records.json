@@ -68,7 +68,7 @@
       "certainty": 4
     },
     {
-      "id": "REC-006",
+      "id": "REC-007",
       "title": "The light of a room",
       "type": "image",
       "file": "media/room light 1.jpeg",
@@ -79,7 +79,7 @@
       "certainty": 4
     },
     {
-      "id": "REC-007",
+      "id": "REC-008",
       "title": "Borrowed life",
       "type": "text",
       "file": "media/Borrowed life.txt",
@@ -90,7 +90,7 @@
       "certainty": 4
     },
     {
-      "id": "REC-008",
+      "id": "REC-009",
       "title": "Red",
       "type": "image",
       "file": "media/traffic light.jpg",
@@ -101,7 +101,7 @@
       "certainty": 3
     },
     {
-      "id": "REC-009",
+      "id": "REC-0010",
       "title": "Charger charging",
       "type": "video",
       "file": "media/Charger charging.mp4",
@@ -112,7 +112,7 @@
       "certainty": 2
     },
     {
-      "id": "REC-0010",
+      "id": "REC-0011",
       "title": "Charging carble in process",
       "type": "image",
       "file": "media/charging carble in process.jpg",
@@ -123,7 +123,7 @@
       "certainty": 4
     },
     {
-      "id": "REC-0011",
+      "id": "REC-0012",
       "title": "Charging Computer",
       "type": "image",
       "file": "media/charging com.png",
@@ -134,7 +134,7 @@
       "certainty": 4
     },
     {
-      "id": "REC-0012",
+      "id": "REC-0013",
       "title": "Mac Computer has much more battery~",
       "type": "image",
       "file": "media/com 1.jpeg",
@@ -145,7 +145,7 @@
       "certainty": 4
     },
     {
-      "id": "REC-0013",
+      "id": "REC-0014",
       "title": "FAN NOISE",
       "type": "sound",
       "file": "media/com fan.mp3",
@@ -156,7 +156,7 @@
       "certainty": 4
     },
     {
-      "id": "REC-0014",
+      "id": "REC-0015",
       "title": "No BATTERY :<",
       "type": "image",
       "file": "media/com that almost have no battery.png",
@@ -167,7 +167,7 @@
       "certainty": 4
     },
     {
-      "id": "REC-0015",
+      "id": "REC-0016",
       "title": "Electricity",
       "type": "text",
       "file": "media/Electricity.txt",
@@ -178,7 +178,7 @@
       "certainty": 4
     },
     {
-      "id": "REC-0016",
+      "id": "REC-0017",
       "title": "Elevator",
       "type": "image",
       "file": "media/Elevator.jpeg",
@@ -189,7 +189,7 @@
       "certainty": 3
     },
     {
-      "id": "REC-0017",
+      "id": "REC-0018",
       "title": "Hair Dryer",
       "type": "image",
       "file": "media/hair dryer.jpg",
@@ -200,7 +200,7 @@
       "certainty": 2
     },
     {
-      "id": "REC-0018",
+      "id": "REC-0019",
       "title": "Karaoke",
       "type": "sound",
       "file": "media/karaoke.mp3",
@@ -211,7 +211,7 @@
       "certainty": 4
     },
     {
-      "id": "REC-0019",
+      "id": "REC-0020",
       "title": "Projector in used",
       "type": "video",
       "file": "media/Projector host in use.mp4",
@@ -222,7 +222,7 @@
       "certainty": 4
     },
     {
-      "id": "REC-0020",
+      "id": "REC-0021",
       "title": "Unseen",
       "type": "text",
       "file": "media/Unseen.txt",
